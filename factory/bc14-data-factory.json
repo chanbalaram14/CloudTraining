@@ -1,0 +1,9 @@
+{
+	"name": "bc14-data-factory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "39074329-aafc-43a1-b91e-4f9170ebc464",
+		"tenantId": "467e01e6-6ec7-444f-a813-6042b685f9ad"
+	}
+}
